@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John",
+    "age": 13,
+    "address": {
+      "city": "Hong Kong",
+      "zip": "000000"
+    }
+  },
+  {
+    "name": "Jacky",
+    "age": 27,
+    "address": {
+      "city": "New York",
+      "zip": "000123"
+    }
+  },
+  {
+    "name": "Mary",
+    "age": 10,
+    "address": {
+      "city": "New York",
+      "zip": "000123"
+    }
+  }
+]

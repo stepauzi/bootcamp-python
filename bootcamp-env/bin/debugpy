@@ -1,4 +1,4 @@
-#!/Users/stephanieau/bootcamp-python/bootcamp-env/bin/python3.14
+#!/Users/stephanieau/bootcamp-python/bootcamp-env/bin/python3.13
 import sys
 from debugpy.server.cli import main
 if __name__ == '__main__':
